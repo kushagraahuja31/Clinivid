@@ -1,0 +1,9 @@
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\bin\Debug\Clinivid_Assignment.exe.config
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\bin\Debug\Clinivid_Assignment.exe
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\bin\Debug\Clinivid_Assignment.pdb
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\obj\Debug\Clinivid_Assignment.csprojResolveAssemblyReference.cache
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\obj\Debug\Clinivid_Assignment.csproj.CoreCompileInputs.cache
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\obj\Debug\Clinivid_Assignment.exe
+D:\Projects\Clinivid_Assignment\Clinivid_Assignment\obj\Debug\Clinivid_Assignment.pdb
